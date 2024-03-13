@@ -12,7 +12,7 @@ import java.lang.reflect.Method;
 /**
  * ClassName:ClassPathXmlApplicationContext
  * Package:com.sigma429.framework.context.support
- * Description:
+ * Description:IOC容器具体的子实现类，用于加载类路径下的xml格式的配置文件
  * @Author:14亿少女的梦-Sigma429
  * @Create:2024/03/13 - 20:31
  * @Version:v1.0

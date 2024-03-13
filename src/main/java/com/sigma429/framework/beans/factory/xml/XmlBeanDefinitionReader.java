@@ -16,7 +16,7 @@ import java.util.List;
 /**
  * ClassName:XmlBeanDefinitionReader
  * Package:com.sigma429.framework.beans.factory.xml
- * Description:
+ * Description:针对xml配置文件进行解析的类
  * @Author:14亿少女的梦-Sigma429
  * @Create:2024/03/13 - 20:15
  * @Version:v1.0
