@@ -30,7 +30,6 @@ public class ClassPathXmlApplicationContext extends AbstractApplicationContext {
     }
 
     // 根据bean对象的名称获取bean对象
-    @Override
     public Object getBean(String name) throws Exception {
         // 判断对象容器中是否包含指定名称的bean对象，如果包含，直接返回即可，如果不包含，需要自行创建
         Object obj = singletonObjects.get(name);
